@@ -1,0 +1,4601 @@
+{
+  "products": [
+    {
+      "id": 1752957945331,
+      "name": "Sony Smartphones Elite",
+      "brand": "Sony",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 345.69,
+      "original_price": 386.79,
+      "description": "Experience the latest technology with the Sony Smartphones Elite. This premium smartphones from Sony offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Sony Smartphones Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "43 x 50 x 15 cm",
+        "Weight": "1162g",
+        "Color": "Silver",
+        "Warranty": "3 years"
+      },
+      "rating": 4.3,
+      "reviews": 1394,
+      "stock_quantity": 669,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 46,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "sony",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5795431612?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3561563966?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8535821375?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762336",
+      "updated_at": "2025-07-19T23:45:44.762341"
+    },
+    {
+      "id": 1752957945739,
+      "name": "HP Headphones Pro",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 877.92,
+      "original_price": 1278.04,
+      "description": "Experience the latest technology with the HP Headphones Pro. This premium headphones from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Headphones Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "35 x 41 x 9 cm",
+        "Weight": "669g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 4.8,
+      "reviews": 1434,
+      "stock_quantity": 190,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 35,
+      "tags": [
+        "electronics",
+        "headphones",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9243919187?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6425780504?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7855842505?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762373",
+      "updated_at": "2025-07-19T23:45:44.762375"
+    },
+    {
+      "id": 1752957944976,
+      "name": "Sony Smartwatches Max",
+      "brand": "Sony",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "price": 4150.01,
+      "original_price": 5249.91,
+      "description": "Experience the latest technology with the Sony Smartwatches Max. This premium smartwatches from Sony offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Sony Smartwatches Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "13 x 10 x 14 cm",
+        "Weight": "1087g",
+        "Color": "Blue",
+        "Warranty": "3 years"
+      },
+      "rating": 4.0,
+      "reviews": 4415,
+      "stock_quantity": 542,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 17,
+      "tags": [
+        "electronics",
+        "smartwatches",
+        "sony",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4502821320?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1034587279?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9364269970?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762396",
+      "updated_at": "2025-07-19T23:45:44.762397"
+    },
+    {
+      "id": 1752957945504,
+      "name": "Samsung Smartphones Elite",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 291.75,
+      "original_price": 426.03,
+      "description": "Experience the latest technology with the Samsung Smartphones Elite. This premium smartphones from Samsung offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Samsung Smartphones Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "46 x 29 x 10 cm",
+        "Weight": "1372g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 5.0,
+      "reviews": 2811,
+      "stock_quantity": 128,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "samsung",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1916528278?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9482820993?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6669548529?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762414",
+      "updated_at": "2025-07-19T23:45:44.762415"
+    },
+    {
+      "id": 1752957945345,
+      "name": "HP Smartphones Elite",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 367.55,
+      "original_price": 548.99,
+      "description": "Experience the latest technology with the HP Smartphones Elite. This premium smartphones from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Smartphones Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "47 x 46 x 15 cm",
+        "Weight": "348g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 4.6,
+      "reviews": 426,
+      "stock_quantity": 472,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4143142071?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2217861705?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4618745142?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762431",
+      "updated_at": "2025-07-19T23:45:44.762432"
+    },
+    {
+      "id": 1752957944871,
+      "name": "LG Smartphones Max",
+      "brand": "LG",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 345.3,
+      "original_price": 510.09,
+      "description": "Experience the latest technology with the LG Smartphones Max. This premium smartphones from LG offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium LG Smartphones Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "34 x 42 x 18 cm",
+        "Weight": "990g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 4.2,
+      "reviews": 632,
+      "stock_quantity": 336,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 10,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "lg",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1340722804?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6515636327?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1009722044?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762452",
+      "updated_at": "2025-07-19T23:45:44.762453"
+    },
+    {
+      "id": 1752957944781,
+      "name": "HP Tablets Elite",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Tablets",
+      "price": 4043.53,
+      "original_price": 5549.6,
+      "description": "Experience the latest technology with the HP Tablets Elite. This premium tablets from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Tablets Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "14 x 31 x 7 cm",
+        "Weight": "1828g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 4.7,
+      "reviews": 1640,
+      "stock_quantity": 23,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 23,
+      "tags": [
+        "electronics",
+        "tablets",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7888253208?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4493856588?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3305352880?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762472",
+      "updated_at": "2025-07-19T23:45:44.762473"
+    },
+    {
+      "id": 1752957945421,
+      "name": "Lenovo Tablets Max",
+      "brand": "Lenovo",
+      "category": "Electronics",
+      "subcategory": "Tablets",
+      "price": 285.99,
+      "original_price": 337.31,
+      "description": "Experience the latest technology with the Lenovo Tablets Max. This premium tablets from Lenovo offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Lenovo Tablets Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "16 x 49 x 14 cm",
+        "Weight": "989g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 4.4,
+      "reviews": 4917,
+      "stock_quantity": 777,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 23,
+      "tags": [
+        "electronics",
+        "tablets",
+        "lenovo",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7167025826?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1837210626?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2217547268?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762489",
+      "updated_at": "2025-07-19T23:45:44.762491"
+    },
+    {
+      "id": 1752957945498,
+      "name": "Apple Laptops Premium",
+      "brand": "Apple",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "price": 237.54,
+      "original_price": 285.68,
+      "description": "Experience the latest technology with the Apple Laptops Premium. This premium laptops from Apple offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Apple Laptops Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "46 x 12 x 6 cm",
+        "Weight": "1624g",
+        "Color": "Black",
+        "Warranty": "2 years"
+      },
+      "rating": 4.1,
+      "reviews": 3977,
+      "stock_quantity": 763,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 16,
+      "tags": [
+        "electronics",
+        "laptops",
+        "apple",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9599200950?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9898200082?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1683984884?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762506",
+      "updated_at": "2025-07-19T23:45:44.762507"
+    },
+    {
+      "id": 1752957945157,
+      "name": "HP Smartwatches Pro",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "price": 404.89,
+      "original_price": 565.45,
+      "description": "Experience the latest technology with the HP Smartwatches Pro. This premium smartwatches from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Smartwatches Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "19 x 31 x 9 cm",
+        "Weight": "653g",
+        "Color": "Blue",
+        "Warranty": "3 years"
+      },
+      "rating": 4.8,
+      "reviews": 1856,
+      "stock_quantity": 769,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartwatches",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6894006576?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2302480265?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8474651229?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762523",
+      "updated_at": "2025-07-19T23:45:44.762524"
+    },
+    {
+      "id": 1752957945376,
+      "name": "LG Tablets Elite",
+      "brand": "LG",
+      "category": "Electronics",
+      "subcategory": "Tablets",
+      "price": 400.88,
+      "original_price": 542.77,
+      "description": "Experience the latest technology with the LG Tablets Elite. This premium tablets from LG offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium LG Tablets Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "18 x 19 x 9 cm",
+        "Weight": "1552g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 4.4,
+      "reviews": 1903,
+      "stock_quantity": 264,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "tablets",
+        "lg",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1266076009?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5608801963?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6229439358?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762538",
+      "updated_at": "2025-07-19T23:45:44.762540"
+    },
+    {
+      "id": 1752957945431,
+      "name": "Sony Smartwatches Max",
+      "brand": "Sony",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "price": 1699.26,
+      "original_price": 2307.67,
+      "description": "Experience the latest technology with the Sony Smartwatches Max. This premium smartwatches from Sony offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Sony Smartwatches Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "16 x 10 x 8 cm",
+        "Weight": "1410g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 4.6,
+      "reviews": 1110,
+      "stock_quantity": 498,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 47,
+      "tags": [
+        "electronics",
+        "smartwatches",
+        "sony",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6480474549?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8138292228?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1780171100?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762557",
+      "updated_at": "2025-07-19T23:45:44.762558"
+    },
+    {
+      "id": 1752957944912,
+      "name": "LG Headphones Pro",
+      "brand": "LG",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 507.74,
+      "original_price": 603.89,
+      "description": "Experience the latest technology with the LG Headphones Pro. This premium headphones from LG offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium LG Headphones Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "32 x 24 x 13 cm",
+        "Weight": "1048g",
+        "Color": "White",
+        "Warranty": "2 years"
+      },
+      "rating": 4.2,
+      "reviews": 1964,
+      "stock_quantity": 102,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "headphones",
+        "lg",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2794392474?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9244961948?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6624153662?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762573",
+      "updated_at": "2025-07-19T23:45:44.762574"
+    },
+    {
+      "id": 1752957945662,
+      "name": "Dell Headphones Max",
+      "brand": "Dell",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 535.98,
+      "original_price": 723.76,
+      "description": "Experience the latest technology with the Dell Headphones Max. This premium headphones from Dell offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Dell Headphones Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "32 x 23 x 15 cm",
+        "Weight": "1363g",
+        "Color": "Blue",
+        "Warranty": "1 years"
+      },
+      "rating": 4.0,
+      "reviews": 3352,
+      "stock_quantity": 474,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "headphones",
+        "dell",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5827151712?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6535834922?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6229658366?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762590",
+      "updated_at": "2025-07-19T23:45:44.762591"
+    },
+    {
+      "id": 1752957944899,
+      "name": "HP Smartphones Premium",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 507.97,
+      "original_price": 591.87,
+      "description": "Experience the latest technology with the HP Smartphones Premium. This premium smartphones from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Smartphones Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "40 x 10 x 6 cm",
+        "Weight": "1574g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 5.0,
+      "reviews": 1282,
+      "stock_quantity": 866,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6142760873?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8059959589?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8641997176?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762606",
+      "updated_at": "2025-07-19T23:45:44.762607"
+    },
+    {
+      "id": 1752957944853,
+      "name": "Lenovo Smartphones Standard",
+      "brand": "Lenovo",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 231.46,
+      "original_price": 338.21,
+      "description": "Experience the latest technology with the Lenovo Smartphones Standard. This premium smartphones from Lenovo offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Lenovo Smartphones Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "46 x 10 x 19 cm",
+        "Weight": "300g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 4.6,
+      "reviews": 1716,
+      "stock_quantity": 170,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "lenovo",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4268443766?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8526395599?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9295746679?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762621",
+      "updated_at": "2025-07-19T23:45:44.762622"
+    },
+    {
+      "id": 1752957945225,
+      "name": "Lenovo Smartphones Pro",
+      "brand": "Lenovo",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 253.38,
+      "original_price": 329.35,
+      "description": "Experience the latest technology with the Lenovo Smartphones Pro. This premium smartphones from Lenovo offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Lenovo Smartphones Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "38 x 11 x 6 cm",
+        "Weight": "958g",
+        "Color": "Blue",
+        "Warranty": "1 years"
+      },
+      "rating": 4.1,
+      "reviews": 3556,
+      "stock_quantity": 634,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "lenovo",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-3675989829?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2147726656?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6221558564?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762636",
+      "updated_at": "2025-07-19T23:45:44.762637"
+    },
+    {
+      "id": 1752957945755,
+      "name": "Sony Smartphones Max",
+      "brand": "Sony",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 984.92,
+      "original_price": 1117.71,
+      "description": "Experience the latest technology with the Sony Smartphones Max. This premium smartphones from Sony offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Sony Smartphones Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "25 x 26 x 17 cm",
+        "Weight": "592g",
+        "Color": "Black",
+        "Warranty": "1 years"
+      },
+      "rating": 4.5,
+      "reviews": 1494,
+      "stock_quantity": 36,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "sony",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5241591130?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7088822341?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5525735731?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762653",
+      "updated_at": "2025-07-19T23:45:44.762654"
+    },
+    {
+      "id": 1752957945504,
+      "name": "LG Smartphones Elite",
+      "brand": "LG",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 1145.1,
+      "original_price": 1524.91,
+      "description": "Experience the latest technology with the LG Smartphones Elite. This premium smartphones from LG offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium LG Smartphones Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "37 x 12 x 20 cm",
+        "Weight": "1883g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 3.5,
+      "reviews": 2092,
+      "stock_quantity": 595,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "lg",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7865322653?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7579995150?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8017750690?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762670",
+      "updated_at": "2025-07-19T23:45:44.762671"
+    },
+    {
+      "id": 1752957945263,
+      "name": "Dell Laptops Ultra",
+      "brand": "Dell",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "price": 642.91,
+      "original_price": 865.88,
+      "description": "Experience the latest technology with the Dell Laptops Ultra. This premium laptops from Dell offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Dell Laptops Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "21 x 48 x 8 cm",
+        "Weight": "1489g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 4.1,
+      "reviews": 2646,
+      "stock_quantity": 687,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 20,
+      "tags": [
+        "electronics",
+        "laptops",
+        "dell",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1812854522?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6749311405?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3798039970?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762687",
+      "updated_at": "2025-07-19T23:45:44.762688"
+    },
+    {
+      "id": 1752957945118,
+      "name": "Sony Smartphones Pro",
+      "brand": "Sony",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 1982.87,
+      "original_price": 2629.58,
+      "description": "Experience the latest technology with the Sony Smartphones Pro. This premium smartphones from Sony offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Sony Smartphones Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "35 x 21 x 17 cm",
+        "Weight": "1243g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 4.3,
+      "reviews": 4784,
+      "stock_quantity": 874,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartphones",
+        "sony",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5113118376?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6433106338?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7971179985?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762704",
+      "updated_at": "2025-07-19T23:45:44.762705"
+    },
+    {
+      "id": 1752957945221,
+      "name": "LG Headphones Max",
+      "brand": "LG",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 426.07,
+      "original_price": 578.47,
+      "description": "Experience the latest technology with the LG Headphones Max. This premium headphones from LG offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium LG Headphones Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "46 x 24 x 18 cm",
+        "Weight": "877g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 4.1,
+      "reviews": 3262,
+      "stock_quantity": 289,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "headphones",
+        "lg",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9511497916?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1222698238?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7756720725?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762721",
+      "updated_at": "2025-07-19T23:45:44.762722"
+    },
+    {
+      "id": 1752957945196,
+      "name": "HP Smartwatches Premium",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "price": 287.13,
+      "original_price": 361.04,
+      "description": "Experience the latest technology with the HP Smartwatches Premium. This premium smartwatches from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Smartwatches Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "24 x 48 x 6 cm",
+        "Weight": "1881g",
+        "Color": "Silver",
+        "Warranty": "1 years"
+      },
+      "rating": 5.0,
+      "reviews": 265,
+      "stock_quantity": 238,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 14,
+      "tags": [
+        "electronics",
+        "smartwatches",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9367278584?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6167578215?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3018949216?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762737",
+      "updated_at": "2025-07-19T23:45:44.762738"
+    },
+    {
+      "id": 1752957945345,
+      "name": "HP Smartwatches Standard",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "price": 635.28,
+      "original_price": 848.5,
+      "description": "Experience the latest technology with the HP Smartwatches Standard. This premium smartwatches from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Smartwatches Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "25 x 20 x 17 cm",
+        "Weight": "895g",
+        "Color": "Blue",
+        "Warranty": "3 years"
+      },
+      "rating": 4.4,
+      "reviews": 1886,
+      "stock_quantity": 275,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 30,
+      "tags": [
+        "electronics",
+        "smartwatches",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7867499728?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9270406543?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7147319008?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762753",
+      "updated_at": "2025-07-19T23:45:44.762754"
+    },
+    {
+      "id": 1752957944835,
+      "name": "Samsung Laptops Max",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "price": 3195.54,
+      "original_price": 4541.03,
+      "description": "Experience the latest technology with the Samsung Laptops Max. This premium laptops from Samsung offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Samsung Laptops Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "33 x 39 x 5 cm",
+        "Weight": "634g",
+        "Color": "Black",
+        "Warranty": "2 years"
+      },
+      "rating": 4.9,
+      "reviews": 2350,
+      "stock_quantity": 732,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "laptops",
+        "samsung",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-3389844514?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1295584496?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3508568072?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762768",
+      "updated_at": "2025-07-19T23:45:44.762769"
+    },
+    {
+      "id": 1752957945347,
+      "name": "Lenovo Laptops Standard",
+      "brand": "Lenovo",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "price": 45.53,
+      "original_price": 59.35,
+      "description": "Experience the latest technology with the Lenovo Laptops Standard. This premium laptops from Lenovo offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Lenovo Laptops Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "23 x 13 x 12 cm",
+        "Weight": "592g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 3.9,
+      "reviews": 3213,
+      "stock_quantity": 669,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 47,
+      "tags": [
+        "electronics",
+        "laptops",
+        "lenovo",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7562237284?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7535289762?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9412405850?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762786",
+      "updated_at": "2025-07-19T23:45:44.762787"
+    },
+    {
+      "id": 1752957945526,
+      "name": "LG Smartwatches Standard",
+      "brand": "LG",
+      "category": "Electronics",
+      "subcategory": "Smartwatches",
+      "price": 346.92,
+      "original_price": 516.55,
+      "description": "Experience the latest technology with the LG Smartwatches Standard. This premium smartwatches from LG offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium LG Smartwatches Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "37 x 15 x 12 cm",
+        "Weight": "1362g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 4.6,
+      "reviews": 961,
+      "stock_quantity": 519,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "smartwatches",
+        "lg",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4819552496?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5976782352?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3269362921?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762801",
+      "updated_at": "2025-07-19T23:45:44.762802"
+    },
+    {
+      "id": 1752957945466,
+      "name": "Apple Headphones Premium",
+      "brand": "Apple",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 2298.5,
+      "original_price": 3322.89,
+      "description": "Experience the latest technology with the Apple Headphones Premium. This premium headphones from Apple offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Apple Headphones Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "21 x 22 x 18 cm",
+        "Weight": "326g",
+        "Color": "Black",
+        "Warranty": "1 years"
+      },
+      "rating": 5.0,
+      "reviews": 3312,
+      "stock_quantity": 893,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "headphones",
+        "apple",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8990300027?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3362853048?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6984862697?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762817",
+      "updated_at": "2025-07-19T23:45:44.762818"
+    },
+    {
+      "id": 1752957944863,
+      "name": "Sony Laptops Standard",
+      "brand": "Sony",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "price": 77.06,
+      "original_price": 108.84,
+      "description": "Experience the latest technology with the Sony Laptops Standard. This premium laptops from Sony offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Sony Laptops Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "17 x 50 x 16 cm",
+        "Weight": "746g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 3.8,
+      "reviews": 260,
+      "stock_quantity": 382,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 50,
+      "tags": [
+        "electronics",
+        "laptops",
+        "sony",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6906867182?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3031139091?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3085112663?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762835",
+      "updated_at": "2025-07-19T23:45:44.762836"
+    },
+    {
+      "id": 1752957945333,
+      "name": "Lenovo Headphones Pro",
+      "brand": "Lenovo",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 1058.81,
+      "original_price": 1216.26,
+      "description": "Experience the latest technology with the Lenovo Headphones Pro. This premium headphones from Lenovo offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Lenovo Headphones Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "28 x 13 x 13 cm",
+        "Weight": "950g",
+        "Color": "Blue",
+        "Warranty": "2 years"
+      },
+      "rating": 4.3,
+      "reviews": 1341,
+      "stock_quantity": 658,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "headphones",
+        "lenovo",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9512066493?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2303977685?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3920916309?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762851",
+      "updated_at": "2025-07-19T23:45:44.762852"
+    },
+    {
+      "id": 1752957944777,
+      "name": "Dell Headphones Ultra",
+      "brand": "Dell",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "price": 102.21,
+      "original_price": 145.76,
+      "description": "Experience the latest technology with the Dell Headphones Ultra. This premium headphones from Dell offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Dell Headphones Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "15 x 36 x 5 cm",
+        "Weight": "1483g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 4.5,
+      "reviews": 1936,
+      "stock_quantity": 253,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "headphones",
+        "dell",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6489119665?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4085187746?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4381981295?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762866",
+      "updated_at": "2025-07-19T23:45:44.762867"
+    },
+    {
+      "id": 1752957945182,
+      "name": "Lenovo Tablets Pro",
+      "brand": "Lenovo",
+      "category": "Electronics",
+      "subcategory": "Tablets",
+      "price": 1140.6,
+      "original_price": 1450.49,
+      "description": "Experience the latest technology with the Lenovo Tablets Pro. This premium tablets from Lenovo offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Lenovo Tablets Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "10 x 41 x 8 cm",
+        "Weight": "741g",
+        "Color": "Black",
+        "Warranty": "2 years"
+      },
+      "rating": 3.8,
+      "reviews": 3961,
+      "stock_quantity": 600,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "electronics",
+        "tablets",
+        "lenovo",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6791369458?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7219581398?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5765638953?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762880",
+      "updated_at": "2025-07-19T23:45:44.762881"
+    },
+    {
+      "id": 1752957945701,
+      "name": "HP Tablets Pro",
+      "brand": "HP",
+      "category": "Electronics",
+      "subcategory": "Tablets",
+      "price": 4559.97,
+      "original_price": 5063.72,
+      "description": "Experience the latest technology with the HP Tablets Pro. This premium tablets from HP offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium HP Tablets Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "45 x 12 x 20 cm",
+        "Weight": "1932g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 3.7,
+      "reviews": 1190,
+      "stock_quantity": 37,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 44,
+      "tags": [
+        "electronics",
+        "tablets",
+        "hp",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9153574587?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5197414190?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2451425677?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762896",
+      "updated_at": "2025-07-19T23:45:44.762897"
+    },
+    {
+      "id": 1752957945590,
+      "name": "Adidas Watches Max",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "subcategory": "Watches",
+      "price": 332.74,
+      "original_price": 427.17,
+      "description": "Experience the latest technology with the Adidas Watches Max. This premium watches from Adidas offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Adidas Watches Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "50 x 17 x 12 cm",
+        "Weight": "645g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 4.7,
+      "reviews": 3093,
+      "stock_quantity": 376,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 28,
+      "tags": [
+        "fashion",
+        "watches",
+        "adidas",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2479259193?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9717309515?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5511598475?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762916",
+      "updated_at": "2025-07-19T23:45:44.762917"
+    },
+    {
+      "id": 1752957944938,
+      "name": "Puma Watches Premium",
+      "brand": "Puma",
+      "category": "Fashion",
+      "subcategory": "Watches",
+      "price": 380.55,
+      "original_price": 506.36,
+      "description": "Experience the latest technology with the Puma Watches Premium. This premium watches from Puma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Puma Watches Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "43 x 16 x 12 cm",
+        "Weight": "283g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 3.5,
+      "reviews": 2437,
+      "stock_quantity": 978,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 34,
+      "tags": [
+        "fashion",
+        "watches",
+        "puma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8652603449?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3039115449?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7990902410?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762932",
+      "updated_at": "2025-07-19T23:45:44.762933"
+    },
+    {
+      "id": 1752957945740,
+      "name": "Puma Bags Ultra",
+      "brand": "Puma",
+      "category": "Fashion",
+      "subcategory": "Bags",
+      "price": 465.6,
+      "original_price": 605.89,
+      "description": "Experience the latest technology with the Puma Bags Ultra. This premium bags from Puma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Puma Bags Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "13 x 13 x 15 cm",
+        "Weight": "1474g",
+        "Color": "Silver",
+        "Warranty": "3 years"
+      },
+      "rating": 3.8,
+      "reviews": 3707,
+      "stock_quantity": 452,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "bags",
+        "puma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6160338675?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8187530380?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1461829368?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762948",
+      "updated_at": "2025-07-19T23:45:44.762949"
+    },
+    {
+      "id": 1752957945724,
+      "name": "Puma Bags Elite",
+      "brand": "Puma",
+      "category": "Fashion",
+      "subcategory": "Bags",
+      "price": 250.02,
+      "original_price": 313.16,
+      "description": "Experience the latest technology with the Puma Bags Elite. This premium bags from Puma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Puma Bags Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "33 x 40 x 15 cm",
+        "Weight": "614g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 4.1,
+      "reviews": 3201,
+      "stock_quantity": 591,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 11,
+      "tags": [
+        "fashion",
+        "bags",
+        "puma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7527431422?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8020861031?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9456313534?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762966",
+      "updated_at": "2025-07-19T23:45:44.762967"
+    },
+    {
+      "id": 1752957945131,
+      "name": "Calvin Klein Jewelry Ultra",
+      "brand": "Calvin Klein",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 57.85,
+      "original_price": 69.49,
+      "description": "Experience the latest technology with the Calvin Klein Jewelry Ultra. This premium jewelry from Calvin Klein offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Calvin Klein Jewelry Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "38 x 47 x 15 cm",
+        "Weight": "1101g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 4.9,
+      "reviews": 4311,
+      "stock_quantity": 665,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 16,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "calvin klein",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5218544800?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3545048415?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8595415458?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.762985",
+      "updated_at": "2025-07-19T23:45:44.762986"
+    },
+    {
+      "id": 1752957945716,
+      "name": "Levi's Shoes Standard",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Shoes",
+      "price": 246.57,
+      "original_price": 331.89,
+      "description": "Experience the latest technology with the Levi's Shoes Standard. This premium shoes from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Shoes Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "31 x 34 x 18 cm",
+        "Weight": "1694g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 3.6,
+      "reviews": 4906,
+      "stock_quantity": 415,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "shoes",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5002456290?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6128250572?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8827255874?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763001",
+      "updated_at": "2025-07-19T23:45:44.763002"
+    },
+    {
+      "id": 1752957945159,
+      "name": "Nike Jewelry Pro",
+      "brand": "Nike",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 898.76,
+      "original_price": 1065.81,
+      "description": "Experience the latest technology with the Nike Jewelry Pro. This premium jewelry from Nike offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Nike Jewelry Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "18 x 21 x 15 cm",
+        "Weight": "1203g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 4.1,
+      "reviews": 3471,
+      "stock_quantity": 323,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 24,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "nike",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8914483960?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5681260169?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7481876588?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763017",
+      "updated_at": "2025-07-19T23:45:44.763018"
+    },
+    {
+      "id": 1752957945372,
+      "name": "Levi's Bags Elite",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Bags",
+      "price": 99.18,
+      "original_price": 130.93,
+      "description": "Experience the latest technology with the Levi's Bags Elite. This premium bags from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Bags Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "15 x 46 x 8 cm",
+        "Weight": "1084g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 4.6,
+      "reviews": 1258,
+      "stock_quantity": 581,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 38,
+      "tags": [
+        "fashion",
+        "bags",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6317867053?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3010390783?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9636337923?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763033",
+      "updated_at": "2025-07-19T23:45:44.763035"
+    },
+    {
+      "id": 1752957945455,
+      "name": "Levi's Jewelry Standard",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 183.22,
+      "original_price": 230.89,
+      "description": "Experience the latest technology with the Levi's Jewelry Standard. This premium jewelry from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Jewelry Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "33 x 16 x 5 cm",
+        "Weight": "217g",
+        "Color": "Blue",
+        "Warranty": "2 years"
+      },
+      "rating": 3.9,
+      "reviews": 1030,
+      "stock_quantity": 263,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6304232499?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1582927314?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5172406576?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763051",
+      "updated_at": "2025-07-19T23:45:44.763052"
+    },
+    {
+      "id": 1752957945183,
+      "name": "Gucci Bags Elite",
+      "brand": "Gucci",
+      "category": "Fashion",
+      "subcategory": "Bags",
+      "price": 177.65,
+      "original_price": 233.16,
+      "description": "Experience the latest technology with the Gucci Bags Elite. This premium bags from Gucci offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Gucci Bags Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "26 x 48 x 11 cm",
+        "Weight": "451g",
+        "Color": "Silver",
+        "Warranty": "3 years"
+      },
+      "rating": 5.0,
+      "reviews": 4173,
+      "stock_quantity": 265,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "bags",
+        "gucci",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9043694486?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7158610165?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5813911491?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763069",
+      "updated_at": "2025-07-19T23:45:44.763070"
+    },
+    {
+      "id": 1752957945482,
+      "name": "Puma Shoes Pro",
+      "brand": "Puma",
+      "category": "Fashion",
+      "subcategory": "Shoes",
+      "price": 259.97,
+      "original_price": 288.42,
+      "description": "Experience the latest technology with the Puma Shoes Pro. This premium shoes from Puma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Puma Shoes Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "39 x 38 x 8 cm",
+        "Weight": "1146g",
+        "Color": "White",
+        "Warranty": "2 years"
+      },
+      "rating": 4.3,
+      "reviews": 1171,
+      "stock_quantity": 663,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 26,
+      "tags": [
+        "fashion",
+        "shoes",
+        "puma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1442938116?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6621797245?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4028927917?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763086",
+      "updated_at": "2025-07-19T23:45:44.763087"
+    },
+    {
+      "id": 1752957945618,
+      "name": "Nike Shoes Pro",
+      "brand": "Nike",
+      "category": "Fashion",
+      "subcategory": "Shoes",
+      "price": 480.96,
+      "original_price": 626.98,
+      "description": "Experience the latest technology with the Nike Shoes Pro. This premium shoes from Nike offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Nike Shoes Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "41 x 31 x 13 cm",
+        "Weight": "1790g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 3.9,
+      "reviews": 1014,
+      "stock_quantity": 681,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "shoes",
+        "nike",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1809656901?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4816568425?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4136298625?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763101",
+      "updated_at": "2025-07-19T23:45:44.763102"
+    },
+    {
+      "id": 1752957945261,
+      "name": "Nike Bags Pro",
+      "brand": "Nike",
+      "category": "Fashion",
+      "subcategory": "Bags",
+      "price": 243.19,
+      "original_price": 308.64,
+      "description": "Experience the latest technology with the Nike Bags Pro. This premium bags from Nike offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Nike Bags Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "34 x 27 x 19 cm",
+        "Weight": "908g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 4.3,
+      "reviews": 1920,
+      "stock_quantity": 51,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 10,
+      "tags": [
+        "fashion",
+        "bags",
+        "nike",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5489140427?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7257745153?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9639098796?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763117",
+      "updated_at": "2025-07-19T23:45:44.763118"
+    },
+    {
+      "id": 1752957945421,
+      "name": "Puma Clothing Ultra",
+      "brand": "Puma",
+      "category": "Fashion",
+      "subcategory": "Clothing",
+      "price": 53.21,
+      "original_price": 76.45,
+      "description": "Experience the latest technology with the Puma Clothing Ultra. This premium clothing from Puma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Puma Clothing Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "13 x 19 x 13 cm",
+        "Weight": "346g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 3.9,
+      "reviews": 269,
+      "stock_quantity": 389,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "clothing",
+        "puma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-3752305170?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1725740432?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9176286731?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763133",
+      "updated_at": "2025-07-19T23:45:44.763134"
+    },
+    {
+      "id": 1752957945693,
+      "name": "Levi's Jewelry Max",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 561.44,
+      "original_price": 682.36,
+      "description": "Experience the latest technology with the Levi's Jewelry Max. This premium jewelry from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Jewelry Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "50 x 45 x 16 cm",
+        "Weight": "1746g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 4.5,
+      "reviews": 3860,
+      "stock_quantity": 37,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8376972281?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6320927575?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3990824715?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763148",
+      "updated_at": "2025-07-19T23:45:44.763149"
+    },
+    {
+      "id": 1752957944765,
+      "name": "Gucci Jewelry Standard",
+      "brand": "Gucci",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 69.35,
+      "original_price": 85.11,
+      "description": "Experience the latest technology with the Gucci Jewelry Standard. This premium jewelry from Gucci offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Gucci Jewelry Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "41 x 16 x 9 cm",
+        "Weight": "784g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 3.9,
+      "reviews": 2109,
+      "stock_quantity": 941,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "gucci",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-3328053473?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6315793475?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8911057373?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763165",
+      "updated_at": "2025-07-19T23:45:44.763166"
+    },
+    {
+      "id": 1752957945693,
+      "name": "Levi's Jewelry Premium",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 222.16,
+      "original_price": 320.71,
+      "description": "Experience the latest technology with the Levi's Jewelry Premium. This premium jewelry from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Jewelry Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "15 x 17 x 5 cm",
+        "Weight": "1364g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 3.7,
+      "reviews": 4631,
+      "stock_quantity": 153,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9164453100?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4445647916?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5824600973?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763180",
+      "updated_at": "2025-07-19T23:45:44.763181"
+    },
+    {
+      "id": 1752957945729,
+      "name": "Adidas Watches Ultra",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "subcategory": "Watches",
+      "price": 78.8,
+      "original_price": 97.11,
+      "description": "Experience the latest technology with the Adidas Watches Ultra. This premium watches from Adidas offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Adidas Watches Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "41 x 36 x 16 cm",
+        "Weight": "431g",
+        "Color": "Blue",
+        "Warranty": "1 years"
+      },
+      "rating": 4.7,
+      "reviews": 3309,
+      "stock_quantity": 551,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "watches",
+        "adidas",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8812529990?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8911715070?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9354154311?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763197",
+      "updated_at": "2025-07-19T23:45:44.763198"
+    },
+    {
+      "id": 1752957945226,
+      "name": "Puma Shoes Pro",
+      "brand": "Puma",
+      "category": "Fashion",
+      "subcategory": "Shoes",
+      "price": 376.32,
+      "original_price": 522.13,
+      "description": "Experience the latest technology with the Puma Shoes Pro. This premium shoes from Puma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Puma Shoes Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "44 x 19 x 14 cm",
+        "Weight": "614g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 3.5,
+      "reviews": 21,
+      "stock_quantity": 775,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 15,
+      "tags": [
+        "fashion",
+        "shoes",
+        "puma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5126310243?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2038164044?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4742969762?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763212",
+      "updated_at": "2025-07-19T23:45:44.763213"
+    },
+    {
+      "id": 1752957945257,
+      "name": "Levi's Watches Pro",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Watches",
+      "price": 37.52,
+      "original_price": 49.92,
+      "description": "Experience the latest technology with the Levi's Watches Pro. This premium watches from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Watches Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "45 x 50 x 17 cm",
+        "Weight": "1698g",
+        "Color": "Black",
+        "Warranty": "1 years"
+      },
+      "rating": 3.7,
+      "reviews": 95,
+      "stock_quantity": 426,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "watches",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6677471641?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8059466925?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5342046417?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763229",
+      "updated_at": "2025-07-19T23:45:44.763230"
+    },
+    {
+      "id": 1752957945614,
+      "name": "Puma Shoes Ultra",
+      "brand": "Puma",
+      "category": "Fashion",
+      "subcategory": "Shoes",
+      "price": 486.57,
+      "original_price": 539.14,
+      "description": "Experience the latest technology with the Puma Shoes Ultra. This premium shoes from Puma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Puma Shoes Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "23 x 34 x 17 cm",
+        "Weight": "1723g",
+        "Color": "Silver",
+        "Warranty": "2 years"
+      },
+      "rating": 4.2,
+      "reviews": 391,
+      "stock_quantity": 103,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 18,
+      "tags": [
+        "fashion",
+        "shoes",
+        "puma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1667119489?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3916191298?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7996531631?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763246",
+      "updated_at": "2025-07-19T23:45:44.763247"
+    },
+    {
+      "id": 1752957945158,
+      "name": "Levi's Shoes Max",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Shoes",
+      "price": 93.75,
+      "original_price": 120.34,
+      "description": "Experience the latest technology with the Levi's Shoes Max. This premium shoes from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Shoes Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "44 x 23 x 11 cm",
+        "Weight": "1643g",
+        "Color": "Silver",
+        "Warranty": "3 years"
+      },
+      "rating": 4.0,
+      "reviews": 1121,
+      "stock_quantity": 691,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 13,
+      "tags": [
+        "fashion",
+        "shoes",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2882537585?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2769414537?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2592182036?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763262",
+      "updated_at": "2025-07-19T23:45:44.763263"
+    },
+    {
+      "id": 1752957944854,
+      "name": "Adidas Jewelry Pro",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 519.15,
+      "original_price": 755.58,
+      "description": "Experience the latest technology with the Adidas Jewelry Pro. This premium jewelry from Adidas offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Adidas Jewelry Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "39 x 45 x 11 cm",
+        "Weight": "262g",
+        "Color": "White",
+        "Warranty": "2 years"
+      },
+      "rating": 4.8,
+      "reviews": 3581,
+      "stock_quantity": 284,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "adidas",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4424003654?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7307199150?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6882513771?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763279",
+      "updated_at": "2025-07-19T23:45:44.763280"
+    },
+    {
+      "id": 1752957944960,
+      "name": "Gucci Watches Ultra",
+      "brand": "Gucci",
+      "category": "Fashion",
+      "subcategory": "Watches",
+      "price": 227.59,
+      "original_price": 261.4,
+      "description": "Experience the latest technology with the Gucci Watches Ultra. This premium watches from Gucci offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Gucci Watches Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "27 x 43 x 12 cm",
+        "Weight": "1345g",
+        "Color": "Blue",
+        "Warranty": "3 years"
+      },
+      "rating": 3.7,
+      "reviews": 4622,
+      "stock_quantity": 636,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 17,
+      "tags": [
+        "fashion",
+        "watches",
+        "gucci",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4855032171?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5878479332?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6057828874?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763294",
+      "updated_at": "2025-07-19T23:45:44.763295"
+    },
+    {
+      "id": 1752957945598,
+      "name": "Levi's Jewelry Premium",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 483.42,
+      "original_price": 542.3,
+      "description": "Experience the latest technology with the Levi's Jewelry Premium. This premium jewelry from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Jewelry Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "21 x 18 x 17 cm",
+        "Weight": "1405g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 4.7,
+      "reviews": 4271,
+      "stock_quantity": 14,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5972519825?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5114182786?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1860186788?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763309",
+      "updated_at": "2025-07-19T23:45:44.763310"
+    },
+    {
+      "id": 1752957944859,
+      "name": "Levi's Clothing Ultra",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Clothing",
+      "price": 132.47,
+      "original_price": 190.82,
+      "description": "Experience the latest technology with the Levi's Clothing Ultra. This premium clothing from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Clothing Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "39 x 14 x 11 cm",
+        "Weight": "1084g",
+        "Color": "White",
+        "Warranty": "2 years"
+      },
+      "rating": 4.3,
+      "reviews": 2039,
+      "stock_quantity": 433,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "clothing",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9323087479?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5954350724?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3741218408?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763326",
+      "updated_at": "2025-07-19T23:45:44.763327"
+    },
+    {
+      "id": 1752957945433,
+      "name": "Gucci Clothing Pro",
+      "brand": "Gucci",
+      "category": "Fashion",
+      "subcategory": "Clothing",
+      "price": 68.66,
+      "original_price": 78.03,
+      "description": "Experience the latest technology with the Gucci Clothing Pro. This premium clothing from Gucci offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Gucci Clothing Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "27 x 22 x 9 cm",
+        "Weight": "311g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 4.1,
+      "reviews": 2781,
+      "stock_quantity": 107,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "clothing",
+        "gucci",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2780177817?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2000030953?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7204787694?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763342",
+      "updated_at": "2025-07-19T23:45:44.763343"
+    },
+    {
+      "id": 1752957945124,
+      "name": "Calvin Klein Jewelry Standard",
+      "brand": "Calvin Klein",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 132.57,
+      "original_price": 187.82,
+      "description": "Experience the latest technology with the Calvin Klein Jewelry Standard. This premium jewelry from Calvin Klein offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Calvin Klein Jewelry Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "36 x 42 x 20 cm",
+        "Weight": "153g",
+        "Color": "White",
+        "Warranty": "2 years"
+      },
+      "rating": 4.2,
+      "reviews": 497,
+      "stock_quantity": 207,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "calvin klein",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9468942775?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6737934453?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9655321833?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763358",
+      "updated_at": "2025-07-19T23:45:44.763359"
+    },
+    {
+      "id": 1752957945025,
+      "name": "Gucci Bags Premium",
+      "brand": "Gucci",
+      "category": "Fashion",
+      "subcategory": "Bags",
+      "price": 134.76,
+      "original_price": 156.62,
+      "description": "Experience the latest technology with the Gucci Bags Premium. This premium bags from Gucci offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Gucci Bags Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "41 x 49 x 19 cm",
+        "Weight": "1289g",
+        "Color": "White",
+        "Warranty": "3 years"
+      },
+      "rating": 3.6,
+      "reviews": 268,
+      "stock_quantity": 929,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "bags",
+        "gucci",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4154051252?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9636679052?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8896917832?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763373",
+      "updated_at": "2025-07-19T23:45:44.763374"
+    },
+    {
+      "id": 1752957944831,
+      "name": "Adidas Jewelry Pro",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 387.95,
+      "original_price": 535.65,
+      "description": "Experience the latest technology with the Adidas Jewelry Pro. This premium jewelry from Adidas offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Adidas Jewelry Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "25 x 10 x 20 cm",
+        "Weight": "1333g",
+        "Color": "Black",
+        "Warranty": "1 years"
+      },
+      "rating": 4.0,
+      "reviews": 3413,
+      "stock_quantity": 548,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 28,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "adidas",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9365992774?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8468479191?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8445588117?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763389",
+      "updated_at": "2025-07-19T23:45:44.763390"
+    },
+    {
+      "id": 1752957945503,
+      "name": "Calvin Klein Shoes Standard",
+      "brand": "Calvin Klein",
+      "category": "Fashion",
+      "subcategory": "Shoes",
+      "price": 527.22,
+      "original_price": 769.75,
+      "description": "Experience the latest technology with the Calvin Klein Shoes Standard. This premium shoes from Calvin Klein offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Calvin Klein Shoes Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "12 x 34 x 15 cm",
+        "Weight": "783g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 4.8,
+      "reviews": 4741,
+      "stock_quantity": 391,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "shoes",
+        "calvin klein",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8555450778?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3209104849?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5865871585?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763404",
+      "updated_at": "2025-07-19T23:45:44.763405"
+    },
+    {
+      "id": 1752957945329,
+      "name": "Gucci Jewelry Pro",
+      "brand": "Gucci",
+      "category": "Fashion",
+      "subcategory": "Jewelry",
+      "price": 255.18,
+      "original_price": 336.21,
+      "description": "Experience the latest technology with the Gucci Jewelry Pro. This premium jewelry from Gucci offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Gucci Jewelry Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "42 x 50 x 18 cm",
+        "Weight": "1864g",
+        "Color": "Silver",
+        "Warranty": "2 years"
+      },
+      "rating": 4.1,
+      "reviews": 1097,
+      "stock_quantity": 401,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 6,
+      "tags": [
+        "fashion",
+        "jewelry",
+        "gucci",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6534284102?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7441237572?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3886141984?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763420",
+      "updated_at": "2025-07-19T23:45:44.763422"
+    },
+    {
+      "id": 1752957944819,
+      "name": "Levi's Clothing Premium",
+      "brand": "Levi's",
+      "category": "Fashion",
+      "subcategory": "Clothing",
+      "price": 382.18,
+      "original_price": 527.08,
+      "description": "Experience the latest technology with the Levi's Clothing Premium. This premium clothing from Levi's offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Levi's Clothing Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "13 x 14 x 12 cm",
+        "Weight": "1991g",
+        "Color": "White",
+        "Warranty": "3 years"
+      },
+      "rating": 4.6,
+      "reviews": 232,
+      "stock_quantity": 439,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "fashion",
+        "clothing",
+        "levi's",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8105616253?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6307029957?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7358387088?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763438",
+      "updated_at": "2025-07-19T23:45:44.763440"
+    },
+    {
+      "id": 1752957944799,
+      "name": "IKEA Decor Elite",
+      "brand": "IKEA",
+      "category": "Home & Garden",
+      "subcategory": "Decor",
+      "price": 157.98,
+      "original_price": 190.1,
+      "description": "Experience the latest technology with the IKEA Decor Elite. This premium decor from IKEA offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium IKEA Decor Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "23 x 45 x 10 cm",
+        "Weight": "1844g",
+        "Color": "White",
+        "Warranty": "3 years"
+      },
+      "rating": 4.4,
+      "reviews": 4668,
+      "stock_quantity": 519,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 16,
+      "tags": [
+        "home & garden",
+        "decor",
+        "ikea",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7860991793?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8462014873?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3569433686?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763460",
+      "updated_at": "2025-07-19T23:45:44.763461"
+    },
+    {
+      "id": 1752957945029,
+      "name": "Crate & Barrel Kitchen Standard",
+      "brand": "Crate & Barrel",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 329.43,
+      "original_price": 429.25,
+      "description": "Experience the latest technology with the Crate & Barrel Kitchen Standard. This premium kitchen from Crate & Barrel offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Crate & Barrel Kitchen Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "38 x 30 x 19 cm",
+        "Weight": "559g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 3.9,
+      "reviews": 4883,
+      "stock_quantity": 172,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "crate & barrel",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6807389519?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7332886059?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2268712322?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763477",
+      "updated_at": "2025-07-19T23:45:44.763478"
+    },
+    {
+      "id": 1752957945453,
+      "name": "Williams-Sonoma Bedding Standard",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Bedding",
+      "price": 302.57,
+      "original_price": 414.06,
+      "description": "Experience the latest technology with the Williams-Sonoma Bedding Standard. This premium bedding from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Bedding Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "10 x 34 x 12 cm",
+        "Weight": "792g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 4.7,
+      "reviews": 3169,
+      "stock_quantity": 230,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "bedding",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5073064141?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5592663403?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7775052913?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763493",
+      "updated_at": "2025-07-19T23:45:44.763494"
+    },
+    {
+      "id": 1752957945454,
+      "name": "Crate & Barrel Kitchen Max",
+      "brand": "Crate & Barrel",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 60.41,
+      "original_price": 78.42,
+      "description": "Experience the latest technology with the Crate & Barrel Kitchen Max. This premium kitchen from Crate & Barrel offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Crate & Barrel Kitchen Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "24 x 14 x 17 cm",
+        "Weight": "1161g",
+        "Color": "Silver",
+        "Warranty": "2 years"
+      },
+      "rating": 4.0,
+      "reviews": 1854,
+      "stock_quantity": 764,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "crate & barrel",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5947375330?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5677085287?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9816283410?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763512",
+      "updated_at": "2025-07-19T23:45:44.763513"
+    },
+    {
+      "id": 1752957945209,
+      "name": "Home Depot Bathroom Max",
+      "brand": "Home Depot",
+      "category": "Home & Garden",
+      "subcategory": "Bathroom",
+      "price": 360.91,
+      "original_price": 540.71,
+      "description": "Experience the latest technology with the Home Depot Bathroom Max. This premium bathroom from Home Depot offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Home Depot Bathroom Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "10 x 38 x 19 cm",
+        "Weight": "659g",
+        "Color": "Blue",
+        "Warranty": "2 years"
+      },
+      "rating": 4.9,
+      "reviews": 4102,
+      "stock_quantity": 144,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "bathroom",
+        "home depot",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2985931319?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1127018906?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4762482733?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763528",
+      "updated_at": "2025-07-19T23:45:44.763529"
+    },
+    {
+      "id": 1752957945101,
+      "name": "Crate & Barrel Furniture Max",
+      "brand": "Crate & Barrel",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 1392.27,
+      "original_price": 1718.89,
+      "description": "Experience the latest technology with the Crate & Barrel Furniture Max. This premium furniture from Crate & Barrel offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Crate & Barrel Furniture Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "17 x 26 x 19 cm",
+        "Weight": "1820g",
+        "Color": "Black",
+        "Warranty": "1 years"
+      },
+      "rating": 4.2,
+      "reviews": 2645,
+      "stock_quantity": 859,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 37,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "crate & barrel",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2088971495?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9104531440?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3752532816?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763547",
+      "updated_at": "2025-07-19T23:45:44.763548"
+    },
+    {
+      "id": 1752957944887,
+      "name": "Crate & Barrel Furniture Premium",
+      "brand": "Crate & Barrel",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 1802.74,
+      "original_price": 2350.41,
+      "description": "Experience the latest technology with the Crate & Barrel Furniture Premium. This premium furniture from Crate & Barrel offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Crate & Barrel Furniture Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "44 x 21 x 8 cm",
+        "Weight": "1607g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 4.6,
+      "reviews": 2954,
+      "stock_quantity": 676,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "crate & barrel",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8696062171?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6869361559?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9094436534?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763563",
+      "updated_at": "2025-07-19T23:45:44.763564"
+    },
+    {
+      "id": 1752957945745,
+      "name": "IKEA Kitchen Elite",
+      "brand": "IKEA",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 135.57,
+      "original_price": 175.04,
+      "description": "Experience the latest technology with the IKEA Kitchen Elite. This premium kitchen from IKEA offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium IKEA Kitchen Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "13 x 23 x 15 cm",
+        "Weight": "1061g",
+        "Color": "Gold",
+        "Warranty": "2 years"
+      },
+      "rating": 4.5,
+      "reviews": 3496,
+      "stock_quantity": 716,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 30,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "ikea",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9400087453?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3171689610?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8084105339?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763580",
+      "updated_at": "2025-07-19T23:45:44.763581"
+    },
+    {
+      "id": 1752957945168,
+      "name": "IKEA Decor Premium",
+      "brand": "IKEA",
+      "category": "Home & Garden",
+      "subcategory": "Decor",
+      "price": 264.42,
+      "original_price": 313.19,
+      "description": "Experience the latest technology with the IKEA Decor Premium. This premium decor from IKEA offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium IKEA Decor Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "49 x 36 x 19 cm",
+        "Weight": "107g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 4.7,
+      "reviews": 3593,
+      "stock_quantity": 203,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "decor",
+        "ikea",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1218734740?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6496740326?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4618333879?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763598",
+      "updated_at": "2025-07-19T23:45:44.763599"
+    },
+    {
+      "id": 1752957945733,
+      "name": "Crate & Barrel Bedding Premium",
+      "brand": "Crate & Barrel",
+      "category": "Home & Garden",
+      "subcategory": "Bedding",
+      "price": 192.77,
+      "original_price": 278.46,
+      "description": "Experience the latest technology with the Crate & Barrel Bedding Premium. This premium bedding from Crate & Barrel offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Crate & Barrel Bedding Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "32 x 13 x 10 cm",
+        "Weight": "869g",
+        "Color": "Silver",
+        "Warranty": "2 years"
+      },
+      "rating": 4.8,
+      "reviews": 380,
+      "stock_quantity": 333,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 11,
+      "tags": [
+        "home & garden",
+        "bedding",
+        "crate & barrel",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1514117557?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6273024885?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8832328936?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763613",
+      "updated_at": "2025-07-19T23:45:44.763615"
+    },
+    {
+      "id": 1752957945586,
+      "name": "Wayfair Furniture Elite",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 64.17,
+      "original_price": 91.96,
+      "description": "Experience the latest technology with the Wayfair Furniture Elite. This premium furniture from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Furniture Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "32 x 19 x 19 cm",
+        "Weight": "1629g",
+        "Color": "Blue",
+        "Warranty": "3 years"
+      },
+      "rating": 4.6,
+      "reviews": 3147,
+      "stock_quantity": 754,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1987730833?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5952811680?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9955639358?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763629",
+      "updated_at": "2025-07-19T23:45:44.763630"
+    },
+    {
+      "id": 1752957945702,
+      "name": "Home Depot Bedding Premium",
+      "brand": "Home Depot",
+      "category": "Home & Garden",
+      "subcategory": "Bedding",
+      "price": 253.93,
+      "original_price": 349.02,
+      "description": "Experience the latest technology with the Home Depot Bedding Premium. This premium bedding from Home Depot offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Home Depot Bedding Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "39 x 12 x 12 cm",
+        "Weight": "476g",
+        "Color": "White",
+        "Warranty": "2 years"
+      },
+      "rating": 3.5,
+      "reviews": 1544,
+      "stock_quantity": 790,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 3,
+      "tags": [
+        "home & garden",
+        "bedding",
+        "home depot",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4392493672?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5123065787?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6503292052?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763645",
+      "updated_at": "2025-07-19T23:45:44.763646"
+    },
+    {
+      "id": 1752957945650,
+      "name": "Williams-Sonoma Furniture Standard",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 199.85,
+      "original_price": 225.3,
+      "description": "Experience the latest technology with the Williams-Sonoma Furniture Standard. This premium furniture from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Furniture Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "33 x 49 x 10 cm",
+        "Weight": "133g",
+        "Color": "Black",
+        "Warranty": "1 years"
+      },
+      "rating": 3.9,
+      "reviews": 3988,
+      "stock_quantity": 940,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7272555257?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4617124749?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4335720932?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763660",
+      "updated_at": "2025-07-19T23:45:44.763662"
+    },
+    {
+      "id": 1752957945017,
+      "name": "Wayfair Kitchen Elite",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 173.44,
+      "original_price": 238.83,
+      "description": "Experience the latest technology with the Wayfair Kitchen Elite. This premium kitchen from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Kitchen Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "32 x 17 x 13 cm",
+        "Weight": "1219g",
+        "Color": "Blue",
+        "Warranty": "2 years"
+      },
+      "rating": 4.4,
+      "reviews": 1633,
+      "stock_quantity": 599,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6672902013?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3502903486?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8171561239?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763677",
+      "updated_at": "2025-07-19T23:45:44.763678"
+    },
+    {
+      "id": 1752957945258,
+      "name": "Wayfair Decor Premium",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Decor",
+      "price": 337.12,
+      "original_price": 444.0,
+      "description": "Experience the latest technology with the Wayfair Decor Premium. This premium decor from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Decor Premium with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "37 x 11 x 10 cm",
+        "Weight": "1489g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 4.1,
+      "reviews": 3375,
+      "stock_quantity": 473,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "decor",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1784441228?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9344384228?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8905780841?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763693",
+      "updated_at": "2025-07-19T23:45:44.763694"
+    },
+    {
+      "id": 1752957945518,
+      "name": "Wayfair Kitchen Ultra",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 1755.85,
+      "original_price": 2259.62,
+      "description": "Experience the latest technology with the Wayfair Kitchen Ultra. This premium kitchen from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Kitchen Ultra with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "10 x 15 x 6 cm",
+        "Weight": "1576g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 3.8,
+      "reviews": 772,
+      "stock_quantity": 98,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 44,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-3084924751?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5858680323?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-8464558665?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763709",
+      "updated_at": "2025-07-19T23:45:44.763710"
+    },
+    {
+      "id": 1752957945034,
+      "name": "Crate & Barrel Furniture Elite",
+      "brand": "Crate & Barrel",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 317.13,
+      "original_price": 467.39,
+      "description": "Experience the latest technology with the Crate & Barrel Furniture Elite. This premium furniture from Crate & Barrel offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Crate & Barrel Furniture Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "19 x 17 x 5 cm",
+        "Weight": "260g",
+        "Color": "White",
+        "Warranty": "3 years"
+      },
+      "rating": 4.5,
+      "reviews": 1968,
+      "stock_quantity": 976,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 19,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "crate & barrel",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5917670715?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7757143565?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6240394140?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763725",
+      "updated_at": "2025-07-19T23:45:44.763726"
+    },
+    {
+      "id": 1752957945052,
+      "name": "Williams-Sonoma Decor Elite",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Decor",
+      "price": 109.1,
+      "original_price": 145.14,
+      "description": "Experience the latest technology with the Williams-Sonoma Decor Elite. This premium decor from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Decor Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "13 x 11 x 20 cm",
+        "Weight": "836g",
+        "Color": "Gold",
+        "Warranty": "1 years"
+      },
+      "rating": 4.1,
+      "reviews": 658,
+      "stock_quantity": 364,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 49,
+      "tags": [
+        "home & garden",
+        "decor",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5115201173?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6910785552?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3375302119?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763742",
+      "updated_at": "2025-07-19T23:45:44.763743"
+    },
+    {
+      "id": 1752957945467,
+      "name": "Wayfair Furniture Max",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 69.35,
+      "original_price": 95.52,
+      "description": "Experience the latest technology with the Wayfair Furniture Max. This premium furniture from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Furniture Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "47 x 17 x 10 cm",
+        "Weight": "161g",
+        "Color": "Silver",
+        "Warranty": "2 years"
+      },
+      "rating": 4.0,
+      "reviews": 1822,
+      "stock_quantity": 147,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-9050988429?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1860160852?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3395283549?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763757",
+      "updated_at": "2025-07-19T23:45:44.763758"
+    },
+    {
+      "id": 1752957945367,
+      "name": "IKEA Kitchen Max",
+      "brand": "IKEA",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 238.12,
+      "original_price": 334.44,
+      "description": "Experience the latest technology with the IKEA Kitchen Max. This premium kitchen from IKEA offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium IKEA Kitchen Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "15 x 27 x 12 cm",
+        "Weight": "1353g",
+        "Color": "Silver",
+        "Warranty": "1 years"
+      },
+      "rating": 4.9,
+      "reviews": 432,
+      "stock_quantity": 288,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "ikea",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-6303262766?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2636678023?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6151659836?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763773",
+      "updated_at": "2025-07-19T23:45:44.763775"
+    },
+    {
+      "id": 1752957945369,
+      "name": "IKEA Bathroom Pro",
+      "brand": "IKEA",
+      "category": "Home & Garden",
+      "subcategory": "Bathroom",
+      "price": 149.42,
+      "original_price": 190.78,
+      "description": "Experience the latest technology with the IKEA Bathroom Pro. This premium bathroom from IKEA offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium IKEA Bathroom Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "25 x 45 x 18 cm",
+        "Weight": "409g",
+        "Color": "Blue",
+        "Warranty": "2 years"
+      },
+      "rating": 3.7,
+      "reviews": 42,
+      "stock_quantity": 495,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "bathroom",
+        "ikea",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8069942709?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9450943435?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2660700865?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763789",
+      "updated_at": "2025-07-19T23:45:44.763791"
+    },
+    {
+      "id": 1752957945318,
+      "name": "Williams-Sonoma Bedding Standard",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Bedding",
+      "price": 675.39,
+      "original_price": 806.17,
+      "description": "Experience the latest technology with the Williams-Sonoma Bedding Standard. This premium bedding from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Bedding Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "32 x 42 x 10 cm",
+        "Weight": "1081g",
+        "Color": "Black",
+        "Warranty": "2 years"
+      },
+      "rating": 4.4,
+      "reviews": 181,
+      "stock_quantity": 637,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 48,
+      "tags": [
+        "home & garden",
+        "bedding",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2896426257?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5392990060?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7919736355?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763806",
+      "updated_at": "2025-07-19T23:45:44.763807"
+    },
+    {
+      "id": 1752957945703,
+      "name": "Williams-Sonoma Furniture Max",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 187.62,
+      "original_price": 252.63,
+      "description": "Experience the latest technology with the Williams-Sonoma Furniture Max. This premium furniture from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Furniture Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "46 x 12 x 7 cm",
+        "Weight": "963g",
+        "Color": "Silver",
+        "Warranty": "1 years"
+      },
+      "rating": 4.1,
+      "reviews": 2608,
+      "stock_quantity": 113,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 45,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2723563576?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5399826723?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4722044288?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763823",
+      "updated_at": "2025-07-19T23:45:44.763824"
+    },
+    {
+      "id": 1752957945464,
+      "name": "IKEA Furniture Pro",
+      "brand": "IKEA",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 178.4,
+      "original_price": 218.75,
+      "description": "Experience the latest technology with the IKEA Furniture Pro. This premium furniture from IKEA offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium IKEA Furniture Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "12 x 29 x 16 cm",
+        "Weight": "1380g",
+        "Color": "Black",
+        "Warranty": "1 years"
+      },
+      "rating": 3.6,
+      "reviews": 900,
+      "stock_quantity": 630,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "ikea",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7461750620?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3389884680?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6231174581?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763838",
+      "updated_at": "2025-07-19T23:45:44.763839"
+    },
+    {
+      "id": 1752957944784,
+      "name": "Williams-Sonoma Furniture Pro",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 104.07,
+      "original_price": 154.47,
+      "description": "Experience the latest technology with the Williams-Sonoma Furniture Pro. This premium furniture from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Furniture Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "49 x 10 x 12 cm",
+        "Weight": "1383g",
+        "Color": "White",
+        "Warranty": "3 years"
+      },
+      "rating": 4.9,
+      "reviews": 3552,
+      "stock_quantity": 647,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": false,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4221626806?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-3451335754?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9738048414?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763853",
+      "updated_at": "2025-07-19T23:45:44.763854"
+    },
+    {
+      "id": 1752957945587,
+      "name": "Williams-Sonoma Furniture Standard",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 66.65,
+      "original_price": 99.89,
+      "description": "Experience the latest technology with the Williams-Sonoma Furniture Standard. This premium furniture from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Furniture Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "42 x 46 x 9 cm",
+        "Weight": "1236g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 4.2,
+      "reviews": 3950,
+      "stock_quantity": 375,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 34,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7720246515?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5284804420?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1716512922?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763869",
+      "updated_at": "2025-07-19T23:45:44.763870"
+    },
+    {
+      "id": 1752957945727,
+      "name": "Wayfair Furniture Max",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 76.07,
+      "original_price": 106.44,
+      "description": "Experience the latest technology with the Wayfair Furniture Max. This premium furniture from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Furniture Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "31 x 47 x 8 cm",
+        "Weight": "908g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 4.0,
+      "reviews": 894,
+      "stock_quantity": 78,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1807127284?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2954815869?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-2233101487?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763886",
+      "updated_at": "2025-07-19T23:45:44.763887"
+    },
+    {
+      "id": 1752957945614,
+      "name": "Home Depot Bathroom Standard",
+      "brand": "Home Depot",
+      "category": "Home & Garden",
+      "subcategory": "Bathroom",
+      "price": 286.99,
+      "original_price": 361.2,
+      "description": "Experience the latest technology with the Home Depot Bathroom Standard. This premium bathroom from Home Depot offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Home Depot Bathroom Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "44 x 32 x 10 cm",
+        "Weight": "741g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 4.1,
+      "reviews": 4860,
+      "stock_quantity": 350,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 13,
+      "tags": [
+        "home & garden",
+        "bathroom",
+        "home depot",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-8347582300?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7247302423?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1700827555?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763903",
+      "updated_at": "2025-07-19T23:45:44.763904"
+    },
+    {
+      "id": 1752957945452,
+      "name": "IKEA Kitchen Elite",
+      "brand": "IKEA",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 147.19,
+      "original_price": 215.16,
+      "description": "Experience the latest technology with the IKEA Kitchen Elite. This premium kitchen from IKEA offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium IKEA Kitchen Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "30 x 26 x 16 cm",
+        "Weight": "690g",
+        "Color": "Silver",
+        "Warranty": "3 years"
+      },
+      "rating": 4.3,
+      "reviews": 3225,
+      "stock_quantity": 70,
+      "is_featured": true,
+      "is_bestseller": false,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 25,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "ikea",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-5615089124?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-1282316520?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9649876493?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763922",
+      "updated_at": "2025-07-19T23:45:44.763923"
+    },
+    {
+      "id": 1752957945035,
+      "name": "Wayfair Decor Pro",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Decor",
+      "price": 156.37,
+      "original_price": 188.38,
+      "description": "Experience the latest technology with the Wayfair Decor Pro. This premium decor from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Decor Pro with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "48 x 33 x 10 cm",
+        "Weight": "1003g",
+        "Color": "White",
+        "Warranty": "1 years"
+      },
+      "rating": 4.6,
+      "reviews": 4698,
+      "stock_quantity": 169,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": true,
+      "discount_percentage": 49,
+      "tags": [
+        "home & garden",
+        "decor",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7928639771?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-7801211191?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5502206478?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763939",
+      "updated_at": "2025-07-19T23:45:44.763940"
+    },
+    {
+      "id": 1752957945726,
+      "name": "Wayfair Kitchen Standard",
+      "brand": "Wayfair",
+      "category": "Home & Garden",
+      "subcategory": "Kitchen",
+      "price": 125.4,
+      "original_price": 172.84,
+      "description": "Experience the latest technology with the Wayfair Kitchen Standard. This premium kitchen from Wayfair offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Wayfair Kitchen Standard with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "35 x 44 x 11 cm",
+        "Weight": "708g",
+        "Color": "White",
+        "Warranty": "2 years"
+      },
+      "rating": 3.9,
+      "reviews": 4653,
+      "stock_quantity": 608,
+      "is_featured": false,
+      "is_bestseller": false,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "kitchen",
+        "wayfair",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-7592225908?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5650192072?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6513722042?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763957",
+      "updated_at": "2025-07-19T23:45:44.763958"
+    },
+    {
+      "id": 1752957945432,
+      "name": "Williams-Sonoma Furniture Max",
+      "brand": "Williams-Sonoma",
+      "category": "Home & Garden",
+      "subcategory": "Furniture",
+      "price": 142.75,
+      "original_price": 167.73,
+      "description": "Experience the latest technology with the Williams-Sonoma Furniture Max. This premium furniture from Williams-Sonoma offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Williams-Sonoma Furniture Max with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "42 x 21 x 8 cm",
+        "Weight": "376g",
+        "Color": "Black",
+        "Warranty": "3 years"
+      },
+      "rating": 4.4,
+      "reviews": 2171,
+      "stock_quantity": 172,
+      "is_featured": false,
+      "is_bestseller": true,
+      "is_new": false,
+      "is_on_sale": false,
+      "discount_percentage": 22,
+      "tags": [
+        "home & garden",
+        "furniture",
+        "williams-sonoma",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-4023720091?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-6291823531?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-5687821743?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.763985",
+      "updated_at": "2025-07-19T23:45:44.763986"
+    },
+    {
+      "id": 1752957944795,
+      "name": "Crate & Barrel Bedding Elite",
+      "brand": "Crate & Barrel",
+      "category": "Home & Garden",
+      "subcategory": "Bedding",
+      "price": 793.16,
+      "original_price": 964.29,
+      "description": "Experience the latest technology with the Crate & Barrel Bedding Elite. This premium bedding from Crate & Barrel offers cutting-edge features and exceptional performance.",
+      "short_description": "Premium Crate & Barrel Bedding Elite with excellent quality and performance.",
+      "features": [
+        "High-quality materials",
+        "Advanced technology",
+        "Long battery life",
+        "Fast performance",
+        "Wireless connectivity"
+      ],
+      "specifications": {
+        "Dimensions": "12 x 17 x 16 cm",
+        "Weight": "1780g",
+        "Color": "Gold",
+        "Warranty": "3 years"
+      },
+      "rating": 3.7,
+      "reviews": 2023,
+      "stock_quantity": 317,
+      "is_featured": true,
+      "is_bestseller": true,
+      "is_new": true,
+      "is_on_sale": true,
+      "discount_percentage": 0,
+      "tags": [
+        "home & garden",
+        "bedding",
+        "crate & barrel",
+        "technology",
+        "premium"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-2076410940?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-9207972329?w=400&h=400&fit=crop&crop=center",
+        "https://images.unsplash.com/photo-4897314109?w=400&h=400&fit=crop&crop=center"
+      ],
+      "created_at": "2025-07-19T23:45:44.764001",
+      "updated_at": "2025-07-19T23:45:44.764002"
+    }
+  ],
+  "analysis": {
+    "total_products": 99,
+    "categories": {
+      "Electronics": 33,
+      "Fashion": 33,
+      "Home & Garden": 33
+    },
+    "price_analysis": {
+      "min_price": 37.52,
+      "max_price": 4559.97,
+      "avg_price": 558.88
+    },
+    "rating_analysis": {
+      "min_rating": 3.5,
+      "max_rating": 5.0,
+      "avg_rating": 4.27
+    },
+    "brands": [
+      "Crate & Barrel",
+      "Samsung",
+      "Adidas",
+      "Dell",
+      "Apple",
+      "Puma",
+      "IKEA",
+      "Levi's",
+      "LG",
+      "Williams-Sonoma",
+      "Sony",
+      "Home Depot",
+      "HP",
+      "Nike",
+      "Calvin Klein",
+      "Gucci",
+      "Lenovo",
+      "Wayfair"
+    ],
+    "featured_products": 47,
+    "bestsellers": 53,
+    "new_products": 48,
+    "on_sale": 52
+  },
+  "generated_at": "2025-07-19T23:45:44.768000"
+}
